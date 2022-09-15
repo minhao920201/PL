@@ -4,4 +4,6 @@
 + 系級:科技系二年級
 ## 課程筆記區
 ## 作業連結區
+### week2
++ [練習題1/3](https://github.com/minhao920201/PL/blob/main/practice%201.ipynb)
 ## 專題連結區
