@@ -7,4 +7,5 @@
 ### week2
 + [練習題1/3](https://github.com/minhao920201/PL/blob/main/practice%201.ipynb)
 + [練習題2/3](https://github.com/minhao920201/PL/blob/main/practice%202.ipynb)
++ [練習題3/3](https://github.com/minhao920201/PL/blob/main/practice%203.ipynb)
 ## 專題連結區
