@@ -18,16 +18,16 @@
 + [練習題2/3](https://github.com/minhao920201/PL/blob/main/practice%202.ipynb)
 + [練習題3/3](https://github.com/minhao920201/PL/blob/main/practice%203.ipynb)
 ### Week3
-*list*[ ] : 可有次序的放入不同類型的資料
+*list[ ]* : 可有次序的放入不同類型的資料
 
     增加 : .append() / .insert() / .extend()
     刪除 : del[] / .remove() / .pop()
-*tuple*( ) : 元素不可被修改，且與list相似有順序
+*tuple( )* : 元素不可被修改，且與list相似有順序
 
-*set*{ } : 無序、元素不可重複、不可為list
+*set{ }* : 無序、元素不可重複、不可為list
 
     增加 : .add() / .update()
     刪除 : .remove() / .pop() / .clear()
-*dict*{ key:value } : 無序、無索引、以key和value方式儲存，其中key不可重複
+*dict{ key:value }* : 無序、無索引、以key和value方式儲存，其中key不可重複
 ## 作業連結區
 ## 專題連結區
