@@ -15,8 +15,8 @@
     (4) bool : 布林值
 *賦值* : "=" 代表將右邊的字串或數字設定給左邊的變數
 + [練習題1/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%201.ipynb)
-+ [練習題2/3](https://github.com/minhao920201/PL/blob/main/Week2_practice/Practice%202.ipynb)
-+ [練習題3/3](https://github.com/minhao920201/PL/blob/main/Week2_practice/Practice%203.ipynb)
++ [練習題2/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%202.ipynb)
++ [練習題3/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/Practice%203.ipynb)
 ### Week3
 *list[ ]* : 可有次序的放入不同類型的資料
 
