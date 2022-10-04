@@ -36,6 +36,7 @@
 
 ### Week4
 *dict{ key:value }* : 無序、無索引、以key和value方式儲存，其中key不可重複
++ [dict practice](https://github.com/minhao920201/PL/blob/main/Week4_Practice/dict%20practice.ipynb)
 ## 作業連結區
 + [HW1](https://github.com/minhao920201/PL/blob/main/HW1/homework1.ipynb)
 ## 專題連結區
