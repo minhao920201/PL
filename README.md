@@ -14,14 +14,16 @@
     
     (4) bool : 布林值
 *賦值* : "=" 代表將右邊的字串或數字設定給左邊的變數
-+ [練習題1/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%201.ipynb)
-+ [練習題2/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%202.ipynb)
-+ [練習題3/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%203.ipynb)
++ [practice1/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%201.ipynb)
++ [practice2/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%202.ipynb)
++ [practice3/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%203.ipynb)
 ### Week3
 *list[ ]* : 可有次序的放入不同類型的資料
 
     增加 : .append() / .insert() / .extend()
     刪除 : del[] / .remove() / .pop()
++ [list practice](https://github.com/minhao920201/PL/blob/main/Week3_Practice/list_practice.ipynb)
+
 *tuple( )* : 元素不可被修改，且與list相似有順序
 
 *set{ }* : 無序、元素不可重複、不可為list
