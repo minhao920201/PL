@@ -17,6 +17,7 @@
 + [practice1/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%201.ipynb)
 + [practice2/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%202.ipynb)
 + [practice3/3](https://github.com/minhao920201/PL/blob/main/Week2_Practice/practice%203.ipynb)
+
 ### Week3
 *list[ ]* : 可有次序的放入不同類型的資料
 
@@ -25,11 +26,15 @@
 + [list practice](https://github.com/minhao920201/PL/blob/main/Week3_Practice/list_practice.ipynb)
 
 *tuple( )* : 元素不可被修改，且與list相似有順序
++ [tuple practice](https://github.com/minhao920201/PL/blob/main/Week3_Practice/tuple_practice.ipynb)
 
 *set{ }* : 無序、元素不可重複、不可為list
 
     增加 : .add() / .update()
     刪除 : .remove() / .pop() / .clear()
++ [set practice](https://github.com/minhao920201/PL/blob/main/Week3_Practice/set_practice.ipynb)
+
+### Week4
 *dict{ key:value }* : 無序、無索引、以key和value方式儲存，其中key不可重複
 ## 作業連結區
 + [HW1](https://github.com/minhao920201/PL/blob/main/HW1/homework1.ipynb)
