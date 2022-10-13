@@ -1,6 +1,111 @@
 {
   "Title" : [
   {
+    "文章標題": "Highcharts的標示線用法",
+    "標籤": ["#jquery","#highcharts"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "求救 : dataframe跑版",
+    "標籤": ["python","pandas"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "我在設定groups的時候把sudo也給踢掉了，請問怎麼辦",
+    "標籤": ["linux","ubuntu"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "開不到機",
+    "標籤": ["無法開機"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "【Google帳戶xAndroid系統】 不小心點選了清除其中資料，如何恢復資料？",
+    "標籤": ["google帳戶","格式化","檔案恢復","手機資料救援"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "PYTHON concat的問題",
+    "標籤": ["excel python"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "JS 在 iOS Chrome 不能運行fetch？",
+    "標籤": ["javascript","菜鳥前端","前端","fetch()"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "微軟 Visual Studio 2019 的除錯訊息沒出現  Console.WriteLine",
+    "標籤": ["vscode","class","visual studio  c#","vs2019","visual studio","c/c++"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "javascript  caller in class function",
+    "標籤": ["javascript","class","function","caller"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "python openpyxl excel syntax 語法問題",
+    "標籤": ["python","openpyxl","excel"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "js  onclick 會一次觸發 IF 跟  ELSE ",
+    "標籤": ["css","jquery"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "清除console",
+    "標籤": ["r","rstudio"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "QR code 點餐系統",
+    "標籤": ["點餐系統"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "如何以NSIS製作「免安裝」and「單一執行檔」的Windows應用程式",
+    "標籤": ["nsis","windows","免安裝","flutter","electron"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "LinQ該不該學",
+    "標籤": ["@linq","@asp.net","#c#"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "smtp server 使用 telnet 內送問題",
+    "標籤": ["smtp","rcpt to","telnet"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "html 連結serial port 能自動授權嗎?",
+    "標籤": ["html","javascript"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "M365增益集inquire能新增嗎",
+    "標籤": ["inquire","m365"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "PALO ALTO SSL-VPN問題",
+    "標籤": ["paloalto","globalprotect","ssl vpn","palo alto"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "公司新筆電cpu 跟ram 異常飆高",
+    "標籤": ["硬體","筆電","windows"],
+    "詢問日期": "9月27日"
+  },
+  {
+    "文章標題": "請問這兩個指令怎麼遞迴",
+    "標籤": ["linux"],
+    "詢問日期": "9月27日"
+  },
+  {
     "文章標題": "關於J1939協定的程式",
     "標籤": ["can bus","j1939"],
     "詢問日期": "9月26日"
