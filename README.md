@@ -42,14 +42,9 @@
 + [dict application](https://github.com/minhao920201/PL/blob/main/Week4_Practice/dict%20application.ipynb)
 
 
-### Week4
-*json* : 輕量級的資料交換語言，容易閱讀的文字為主，用來傳輸由屬性值或者序列性的值組成的資料物件。
-
-    格式 : 陣列用中括號、物件用大括號
-    與 python 之間的轉換 : 
-    1.JSON字串轉Python dict : python json字串轉成python物件需要使用json模塊的loads()
-    2.dict轉JSON字串 : python物件轉json字串需要使用json模塊的dumps()
-    3.dict包含list轉JSON字串可以使用indent => 可以使得數據存儲的格式容易解讀
+### Week5
+*json* : 以 dict 的型態為架構，主要用來傳輸由屬性值或者序列性的值組成的資料物件
++ [json introduction](https://ithelp.ithome.com.tw/articles/10220160)
 ## 作業連結區
 + [HW1](https://github.com/minhao920201/PL/blob/main/HW1/homework1.ipynb)
 + [HW2](https://github.com/minhao920201/PL/blob/main/HW2/homework2.ipynb)
