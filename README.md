@@ -45,6 +45,11 @@
 ### Week5
 *json* : 以 dict 的型態為架構，主要用來傳輸由屬性值或者序列性的值組成的資料物件
 + [json introduction](https://ithelp.ithome.com.tw/articles/10220160)
+
+
+### Week6
+*Regular Expression (正規表示式)* : 通常被用來檢索、替換那些符合某個模式的文字
++ 網站 : [RegExr](https://regexr.com/)
 ## 作業連結區
 + [HW1](https://github.com/minhao920201/PL/blob/main/HW1/homework1.ipynb)
 + [HW2](https://github.com/minhao920201/PL/blob/main/HW2/homework2.ipynb)
