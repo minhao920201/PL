@@ -50,6 +50,13 @@
 ### Week6
 *Regular Expression (正規表示式)* : 通常被用來檢索、替換那些符合某個模式的文字
 + 網站 : [RegExr](https://regexr.com/)
+
+
+### Week7
+*Web crawler ( 網路爬蟲 ) : 是一種用來自動瀏覽全球資訊網的網路機器人。其目的一般為編纂網路索引
++ 教學影片 : [Crawler](https://youtu.be/9Z9xKWfNo7k)
+
+
 ## 作業連結區
 + [HW1](https://github.com/minhao920201/PL/blob/main/HW1/homework1.ipynb)
 + [HW2](https://github.com/minhao920201/PL/blob/main/HW2/homework2.ipynb)
