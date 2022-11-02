@@ -1,0 +1,242 @@
+{
+   "Article":[
+   {
+   "標題":"Choose one stop destination for all your betting needs?",
+   "標籤":["gaming"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"6",
+   "內文":"EOLLook no further than Satta King Fast if you're looking for a trustworthy and dependable site for all of your betting needs. We are here to assist you in getting the most out of your betting experience as a top supplier of online betting tools and resources. For all of your wagering requirements, turn to Disawar Satta Game. In addition to providing a wide range of poker rooms and casino games, we also have a huge selection of sports betting options. Whatever your betting requirements are, we are certain that we can assist you in fulfilling them. So why are you still waiting? Start placing your bets at Satta King right away!EOL"
+   },
+
+   {
+   "標題":"Linux 擴展目錄空間的方法",
+   "標籤":["linux","xfs"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"24",
+   "內文":"EOL如題User抱怨某個目錄不夠用希望將其他目錄底下的空間分一點過來，看了一下這台系統很老主要filesystem都是XFS沒法透過LVM玩挖東牆補西牆，所以只能請User買硬碟嗎?還是有其他方法有請各為大大指點!!!EOL"
+   },
+
+   {
+   "標題":"儲存/除錯 ajax 的錯誤訊息",
+   "標籤":["xmlhttprequest","asp.net mvc","error","ajax","javascript"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"48",
+   "內文":"EOL目前有使用到 ajax 在error 的時候如下EOL error: function () {EOL                            alert(`wrong`);EOL                        }EOLEOL我有查一般想知道錯訊是這樣寫 如下EOLerror: function(xhr, ajaxOptions, thrownError) {EOLconsole.log(xhr.responseText);EOL}EOLEOL我希望發生此錯誤時EOL能記下來這個錯訊EOL因為我無法模擬出那個錯誤EOL不知道問題在哪EOL大家會怎麼寫EOL"
+   },
+
+   {
+   "標題":"Garner Quality Traffic With Our PPC Marketing Services - Matebiz",
+   "標籤":["digital marketing"],
+   "詢問時間":"Pvt",
+   "瀏覽次數":"37",
+   "內文":"EOLMatebiz offers the best PPC marketing services to help you garner quality traffic to your website. Our team of experienced professionals will work with you to create targeted campaigns that are designed to reach your specific target audience. We also offer ongoing support and reporting so that you can see the results of your campaigns and make adjustments as needed. We always offer a 100% satisfaction guarantee on all of our services. So, if you're looking for a leading PPC Services Agency contact us today.EOL"
+   },
+
+   {
+   "標題":"換主板及硬碟之WIN10授權問題",
+   "標籤":["@硬碟","@windows10","@授權","@序號","@win10"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"140",
+   "內文":"EOL大家好，小弟最近從友人那邊接手一塊二手主板 + 5顆HDD硬碟回來玩玩EOL遇到兩個狀況：EOL1：EOL朋友已經將原主板上的授權轉移至他的新電腦 (WIN11)EOL但連網後仍不用輸入序號，自動啟用專業版 (數位授權)EOL朋友那邊也都正常沒有異樣，這樣兩組序號不是已經衝突了嗎？怎麼能同時運行在兩台電腦上？EOL2：EOL5顆硬碟拿來時已格式化，我自行用USB灌WIN10 PROEOL連網後同上述，自動啟用專業版(數位授權)，但用Showkeyplus及slmgr指令查詢後發現：EOL硬碟1：OEM 序號與其他顆不同EOL硬碟2、3、4：RETAIL 序號相同EOL硬碟5：RETAIL 序號與其他顆不同EOL想請問大神們這是什麼原因？EOL以為序號是固定同一組然後綁在主板上，怎麼不同硬碟重灌後會出現不同的版本或序號XDEOL若有敘述不周或不足請見諒，我再補充EOL謝謝前輩們解惑回復！EOL"
+   },
+
+   {
+   "標題":"遠端桌面連線--因為它們沒有公用的演算法",
+   "標籤":["沒有公用的演算法"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"161",
+   "內文":"EOL在廠外的同仁(無加入網域' windows 7)在使用遠端桌面連線時，出現下面的訊息:EOL但其他人員在使用時就正常的。EOL'發生驗證錯誤。EOL用戶端和伺服器無法溝通，因為它們沒有公用的演算法。'EOL不知是否電腦上的設定值要調整，還請各位前輩解答~~EOL"
+   },
+
+   {
+   "標題":"求助大神，關於修改檔案內容",
+   "標籤":["檔案修改","txt文字檔","bat","cmd指令","c++"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"136",
+   "內文":"EOL請問各位大神們EOL老闆要我幫忙找找要怎麼寫成一個執行檔EOL把CFG檔案裡面的一串數字修改EOL我們都是手動打開檔案，去修改這個檔案的數字EOL例如EOL0x0024  :  6 : byte :  70 B3 D5 16 80  ←(這串數字在整個文字檔裡面的第24列，要修改的文字是70 B3 D5 16 80是25~38行)EOL(例70 B3 D5 16 80修改成80 D3 F6 55 11)這樣，其他不變，EOL那有辦法做出執行檔跳出來，我只要輸入數字，它就會幫我把這個檔案內容修改並另存新檔嗎?EOL例如123.CFG儲存成Z_123.CFGEOL感謝各位..EOL(其實用文字檔打開不是可以直接取代嗎?不知道老闆為什麼一定要寫一個程式改QQ)EOL"
+   },
+
+   {
+   "標題":"[C#] C# Web專案中的Vendor目錄",
+   "標籤":["c#","web","vendor"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"88",
+   "內文":"EOLC# Web專案中的Vendor目錄是怎麼來的？EOL"
+   },
+
+   {
+   "標題":"非資訊、資安問題!?老鼠吃乖乖，快攻入機房怎麼辦？根因是老鼠還是乖乖",
+   "標籤":["機房","乖乖"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"263",
+   "內文":"EOL這是一個非資訊、資安問題!?，但又很有趣EOL看到有人提到，朋友問：如何避免放在機器上的乖乖被老鼠咬，外面個人位置上的未開封的乖乖都被攻陷，一線之隔，就快要攻入機房了（機房隔壁已中....EOL感覺不少人應該是有經驗，理論上不要放，但仍會有一種習慣在流傳EOL自己近期也曾看到，王品火鍋店櫃台POS旁也有乖乖，特意拍下一張EOLEOL就像銀行朋友常說，辦公室出現老鼠，自己辦公室好像也發生，畢竟大家可能都有食物EOL(補充:食物引起老鼠闖進機房，應該實體安全吧，要面對稽核!?但食物吃完是否會咬電線，還是沒有食物老鼠也會闖入也有可能咬電線，所以跟因 是老鼠?還是食物)EOL"
+   },
+
+   {
+   "標題":"SMTP",
+   "標籤":["郵件伺服器","免費","公開"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"178",
+   "內文":"EOL公司沒有獨立的網域名稱，也沒有自己的郵件伺服器。公司的主要對外網路ISP是中華電信，備援網路ISP是中嘉寬頻。EOL目前事務機的掃描到郵件的功能，SMTP的設定都是使用中華電信的SMTP伺服器（msa.hinet.net)。EOL依照中華電信的說明，他們的SMTP伺服器只接受由中華電信的IP所寄出的郵件。EOL當中華電信的網路斷線時，公司內所有事務機的掃描到郵件的功能就無法傳遞。EOL不知道有其它SMTP伺服器是可以接受任何IP所寄出的郵件，同時不需要輸入任何用戶名及密碼就可以使用的免費公開的SMTP伺服器嗎？EOL我想只有這樣子的SMTP伺服器，才可以讓我們不管是走中華電信或中嘉寬頻的網路都可以發送郵件。EOL"
+   },
+
+   {
+   "標題":"#sql 找出日期相減的最大值",
+   "標籤":["資料庫","sql","mysql","access"],
+   "詢問時間":"2022-11-02",
+   "瀏覽次數":"248",
+   "內文":"EOL大家好我是一個sql小菜雞，請問各位大老假設我在一個資料表裡有：orderid、orderdate、receivedate。請問我該如何寫最後的查詢結果才會顯示兩個日期相減的最大值以及對應的orderid?EOL"
+   },
+
+   {
+   "標題":"想問這樣plc書寫器要怎麼輸入    ",
+   "標籤":["plc","與各種三菱plc通訊控制系統方式"],
+   "詢問時間":"2022-11-01",
+   "瀏覽次數":"187",
+   "內文":"EOL![]EOL"
+   },
+
+   {
+   "標題":"JavaScript 遊戲 加分條件",
+   "標籤":["game"],
+   "詢問時間":"2022-11-01",
+   "瀏覽次數":"288",
+   "內文":"EOL如果某一樣物件碰撞某一樣物件會加分，應該如何寫？EOL"
+   },
+
+   {
+   "標題":"C# - Fortify Missing Check against Null 如何排除 ",
+   "標籤":["c#","fortify"],
+   "詢問時間":"2022-11-01",
+   "瀏覽次數":"334",
+   "內文":"EOL各位大大好 程式如下EOLprotected void Button1_Click(object sender, EventArgs e)EOL        {EOLEOL            if (!string.IsNullOrEmpty(userName.Text) || !string.IsNullOrEmpty(userPassword.Text))EOL            {EOL                string user1 = userName.Text;EOL                string user2 = userName.Text;EOL                DataTable dt = ut.login(user1,user2);EOLEOL                Session['workid'] = (dt.Rows[0]['workid'].ToString() != null) ? dt.Rows[0]['workid'].ToString().filter() : 'N/A';EOLEOL                auth2 = Session['workid'].ToString() ?? 'N/A';EOLEOLFortify 在 auth2 行會出現 Missing Check against Null 風險EOL風險說明:Login.aspx.cs 中的 Button1_Click() 方法可以解除參照 Null 指標，因為它不會檢查 get_Item() 的回傳值，但回傳值可能為 null。EOL請問該如何修復這個風險 謝謝EOL"
+   },
+
+   {
+   "標題":"如何透過防火牆阻擋外部郵件系統連線",
+   "標籤":["mail server","防火牆"],
+   "詢問時間":"2022-11-01",
+   "瀏覽次數":"569",
+   "內文":"EOL請教各位前輩EOL公司要求只能使用內部郵件系統，小弟之前是用FQDN+IP來阻擋ｇｍａｉｌ連線，現在變成要阻擋所有外部郵件系統，FQDN+IP應該會設不完，有沒有更好的方法來實現它？阻擋ｐｏｒｔ？EOL"
+   },
+
+   {
+   "標題":"win 10 對於 Excel 2010 含有VBA 非常不友善? ",
+   "標籤":["excel+vba的問題"],
+   "詢問時間":"2022-11-01",
+   "瀏覽次數":"318",
+   "內文":"EOLwin 10 對於 Excel 2010 含有VBA 非常不友善?EOL請問 WIN 10 下要如何正常的運行Excel 2010 含有VBA 的檔案?EOL問題: win 10 下開Excel 2010 含有VBA 點擊 任何一個MODULE EXCEL檔案會閃退???EOL信任中心的巨集設定:勾選了EOLEOL啟用所有巨集EOL信任存取 VBA 專案物件模型：     不允許或允許從自動化用戶端使用程式設計方式存取 Visual Basic for Applications (VBA) 物件模型。 此安全性選項主要針對為了將 Office 程式自動化並利用 VBA 環境及物件模型而撰寫的程式碼。 這項設定是以個別使用者與個別應用程式為基礎，依照預設會拒絕存取，以阻止未經授權的程式建立有害的自我複製程式碼。 執行程式碼的使用者必須授與存取權，自動化用戶端才能存取 VBA 物件模型。 若要開放存取，請選取核取方塊。EOLEOL"
+   },
+
+   {
+   "標題":"VBA編寫問題：自動換行",
+   "標籤":["for迴圈","自動換行","excel vba"],
+   "詢問時間":"2022-11-01",
+   "瀏覽次數":"238",
+   "內文":"EOL想請教一下各位大神~~EOL我目前正在做客戶成本利潤分析表，每一個客戶的資料都是單獨的工作表，我希望可以在每一個客戶的工作表上有一個可以將I5:N5的資料複製貼上到總表的巨集按鈕，-而總表內不超過300筆資料。EOL(註：我已經會把每一個客戶工作表在相同位置放同一個巨集按扭了)EOL我現在卡在條件式迴圈裡，我的想法是透過FOR NEXT 自動換行，但我觀念還是不太好，在這迴圈內會一直將同一筆資料複製貼上300次，確實是有自動換行，但我只希望複製貼上一次，等下一次按另一個客戶工作表的巨集按紐複製資料時再自動換到總表下一行貼上。EOL請問我該怎麼編寫呢? 再麻煩各位幫小弟解惑! 辛苦各位! 謝謝!EOLsub 彙總資料()EOLDim 客戶姓名 As StringEOLDim 車款 As StringEOLDim 車款總價 As StringEOLDim X as IntergerEOLRange('I5:N5').SelectEOLSelection.CopyEOL客戶姓名 = ThisWorkbook.ActiveSheet.NameEOL車款 = ThisWorkbook.ActiveSheet.Range('B2')EOL車款總價 = ThisWorkbook.ActiveSheet.Range('B3')EOL成本價 = ThisWorkbook.ActiveSheet.Range('C6')EOLsheets('總表').SelectEOLIf Cells(X, 3) = 0 ThenEOLRange('A2').Offset(X - 2) = 客戶姓名EOLRange('B2').Offset(X - 2) = 車款EOLRange('C2').Offset(X - 2) = 車款總價EOLRange('D2').Offset(X - 2) = 成本價EOLRange('E2').Offset(X - 2).SelectEOLSelection.PasteSpecial Paste:=xlPasteValues, operation:=xlNone, skipblanks:=False, Transpose:=FalseEOLElseIf Cells(X, 3) <> 0 And Cells(X + 1, 3) = 0 ThenEOLRange('A2').Offset(X - 1) = 客戶姓名EOLRange('B2').Offset(X - 1) = 車款EOLRange('C2').Offset(X - 1) = 車款總價EOLRange('D2').Offset(X - 1) = 成本價EOLRange('E2').Offset(X - 1).SelectEOLSelection.PasteSpecial Paste:=xlPasteValues, operation:=xlNone, skipblanks:=False, Transpose:=FalseEOLEnd IfEOLNext XEOL"
+   },
+
+   {
+   "標題":"OUTLOOK如何將製做好的表單 套用至新增信件、全部回覆、轉寄的預設表單",
+   "標籤":["#新手求指導","outlook"],
+   "詢問時間":"2022-11-01",
+   "瀏覽次數":"229",
+   "內文":"EOL首先下面這張圖片是我使用新增電子郵件->開發人員->設計這個表單的樣子(使用版本為OUTLOOK2019)EOLEOL主要的目的是為了在'未寄出'信件時儲存為草稿後列印能'顯示寄件人'跟'建立時間'(下方照片)EOLEOL但目前只能在新增郵件時使用此表單，全部回覆或是轉寄就無法使用，EOL希望可以在主頁面的全部回覆、轉寄就可以直接使用我設定的表單EOL請問是我設定錯誤或是說有更好的方法請提供(截圖方式老闆不接收再麻煩各位幫忙了)EOL"
+   },
+
+   {
+   "標題":"請問Laravel的框架下用collect()包陣列去用Collection的涵式會很奇怪嗎？",
+   "標籤":["laravel","php"],
+   "詢問時間":"2022-11-01",
+   "瀏覽次數":"222",
+   "內文":"EOL請問我的程式碼如下所示，我大量使用collect()這個涵式包住一般的陣列做運算，EOL前輩覺得我這樣用很奇怪，但我不知道這樣寫對不對，只是覺得那些涵式好好用，EOL請問正常在Laravel框架下是怎麼運用那些Collection的涵式呢？EOLforeach ($itemData as $value) {EOL    $amount[array_keys($value)[0]] = collect($timeData)->where(0, array_keys($value)[0])->count();EOL    $money[array_keys($value)[0]] = collect($moneyData)->sum(array_keys($value)[0]);EOL}EOLEOL"
+   },
+
+   {
+   "標題":"如何用 Robot framework 寫 Get adb log 之後要 Enter Ctrl+c 自動執行的功能在 Terminal 和 Windows CMD?? ",
+   "標籤":["robot framework"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"266",
+   "內文":"EOL想要請教大家一下,EOL如何用 Robot framework 寫  Record 15 secs Android adb log 之後要 Enter Ctrl+c  自動執行的功能在 Terminal 和 Windows CMD??EOLadb shell logcat -b crash > log_carsh_date.txtEOLRecord 15 secsEOLEnter Ctrl+cEOL可以幫忙解答一下嗎?EOL謝謝喔.EOL"
+   },
+
+   {
+   "標題":"使用電源供應器來供應設備電力的接線問題",
+   "標籤":["電源供應器","外部供電","接線"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"370",
+   "內文":"EOL我是用'明緯變壓器 LRS 35'來幫設備供電，因為老師是說如果要給多個設備供電的話，接地線都要接在一起，請問有人知道是甚麼意思嗎?EOL是要這樣接嗎?EOLEOL更新EOLEOL繼電器EOLEOL"
+   },
+
+   {
+   "標題":"使用3.3V來控制 5V繼電器會怎麼樣?",
+   "標籤":["繼電器控制","電壓","arduino"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"334",
+   "內文":"EOL請問我使用esp8266來控制繼電器，繼電器上是寫5V驅動電壓，可是我用3.3V的也可以驅動而且感覺蠻正常的，請問如果用3.3V的來驅動會怎麼樣嗎? 會因對電壓太低比較容易燒掉嗎?EOLEOL"
+   },
+
+   {
+   "標題":"mysql - where 條件 with JSON_EXTRACT",
+   "標籤":["php mysql 資料管理","mysql"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"408",
+   "內文":"EOLSELECT id from user_leave_hour WHERE user_id = '61' and leave_type_id = '7' and JSON_EXTRACT(data, '$**.aid') = '120221031001';EOLEOL如上述query我想在where條件中使用json中的aid值當條件，想請前輩們我的作法問題出錯在哪，謝謝!EOL以下是json data :EOL{'child1':[{'leave_hour':'88.0','start_date':'2022-12-01','end_date':'2024-11-30','aid':'120221031001'},{'leave_hour':'88.0','start_date':'2022-12-16','end_date':'2024-12-15','aid':'120221031002'}],'child2':[{'leave_hour':'80.0','start_date':'2023-01-02','end_date':'2025-01-01','aid':'120221031003'}]}EOLEOL"
+   },
+
+   {
+   "標題":"[已解決].net core 6 api 多語系問題",
+   "標籤":["asp.net core","@api"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"395",
+   "內文":"EOL我參考這篇https://learn.microsoft.com/zh-tw/aspnet/core/fundamentals/localization?view=aspnetcore-6.0EOL但是最後輸出的時候都只有輸出名稱不會輸出值EOLEOL以下是程式碼EOLController的部分EOLprivate readonly IStringLocalizer<testController> _localizer;EOLEOL        public testController(IStringLocalizer<testController> localizer,EOL            IStringLocalizer<SharedResource> sharedLocalizer)EOL        {EOL            _localizer = localizer;EOL        }EOLEOL        [HttpGet]EOL        public string Get()EOL        {EOL            return _localizer['test'] + _localizer['test'].Value;EOL        }EOLEOLProgram的部分只有加上這一部分EOLbuilder.Services.AddControllersWithViews();EOLbuilder.Services.AddLocalization(options => options.ResourcesPath = 'Resources');EOLEOLbuilder.Services.AddMvc()EOL    .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)EOL    .AddDataAnnotationsLocalization();EOLEOL有人知道我哪裡有寫錯或少加東西嗎....EOL已解決，詳細參考這篇EOLhttps://www.codeproject.com/Articles/5324504/Localization-in-ASP-NET-Core-Web-APIEOL"
+   },
+
+   {
+   "標題":"辦公室 AP位置評估",
+   "標籤":["訊號加強","辦公室ap","ap位置"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"609",
+   "內文":"EOLhttps://ithelp.ithome.com.tw/upload/images/20221031/201395411Ccd8WAvBB.jpg]EOL辦公室面積: 300坪, 輕鋼架EOL有線:行政網路EOL無線:外網EOL問題描述:EOL老闆希望可以加強餐廳+自己位置(黃色區塊)的Wifi訊號EOL但餐廳沒有網路孔，天花板與辦公室間有一層60cm水泥牆無法貫穿EOL方案A: 是直接將一個沒人坐的位置跳線接AP(青色) :只要花AP錢, 但不美觀+管理問題EOL方案B: 請水電新拉條線(桃色): 固定節點, 增加成本+水泥牆問題無法確定是否可以改善餐廳訊號EOL因為主管認為方案A的AP位置與現有的位置太近 對於訊號加強存在質疑所以覺得不如直接請人重新拉線才有方案B，但走天花板是對於餐廳的訊號是否有辦法改善其實也無法確定 所以這邊上來求諮詢EOL"
+   },
+
+   {
+   "標題":"windows file server 突然不認識AD",
+   "標籤":["windows server 2012 r2"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"551",
+   "內文":"EOL我有一台 windows 用share的方式當file server 用, 但是有一天突然就不認識AD主機了,EOL點了目錄後, 出現以下的圖片, '從這個位置' 要找DOMAIN 時都空白.EOLEOL退網域再加入後, 問題一樣, 查看event log, 有發現SRMSVC error 12344 的錯誤,EOL現在使用者是連都連不上這台主機, 其他台主機沒問題EOL各位先進有遇過同樣的問題嗎EOL"
+   },
+
+   {
+   "標題":"linux  sed文字處理的問題",
+   "標籤":["linux","sed","awk","字串處理"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"208",
+   "內文":"EOL各位好EOL我有一堆文字檔，有上千隻，我想要寫一個迴圈，因為內容完全沒有時間，只有檔名有，所以我想把檔案名稱的日期和時間寫到文字檔的第一欄放進去，請問一下應該如何處理？EOL我想到的是，下面這種方法，但應該是錯的，不知道怎麼修正比較好？EOLfilepath = ‵find . xxxxxxx ‵EOLfiledatetime = ‵find . xxxxxxx ‵EOLsed 's/^/'$filedate' /' $filenameEOLEOL$filedatetime print 出來的格式是20221011 133045EOL感謝！EOL"
+   },
+
+   {
+   "標題":"發問Java  猜數字遊戲",
+   "標籤":["java","javascript"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"305",
+   "內文":"EOL大家好 最近剛開始在學javaEOL遇到一些問題想請教EOL有個題目設定是在0-99之間猜一數字EOL若猜錯的話系統會以(min,max)回覆猜過的區間EOL假設答案是80EOL若玩家猜到(79,81)系統會顯示ＧＧEOL想請問這個條件應該怎麼加進程式碼裡面？EOL我的邏輯好像有點錯誤 但不知道應該從哪邊調整...EOLimport java.util.Scanner;EOLpublic class NumberGuess {EOLpublic static void main(String[] args) {EOL    // TODO Auto-generated method stubEOL    EOL    int N = (int)(Math.random()*100);EOL    int min = 0;EOL    int max = 99;EOL    EOL    System.out.println('guess a number between 0~99:');EOL    Scanner input = new Scanner(System.in);EOL    EOL    int A = input.nextInt();EOL    EOL    while (A != N) {EOL        EOL        if (A<0 || A>99) {EOL            System.out.println('Out of range, try again?');EOL            A = input.nextInt();EOL        }EOL        else if (A==min+1 && A==max-1) {EOL            System.out.println('GG');EOL        }EOL            EOL        else if (A>N) {EOL            max = A;EOL            System.out.println('('+min+','+max+')?');EOL            A = input.nextInt();EOL        }EOL        else if (A<N) {EOL            min = A;EOL            System.out.println('('+min+','+max+')?');EOL            A = input.nextInt();EOL            EOL        }EOL    EOL        EOL    }EOL    System.out.println('You win!');EOL    EOLEOL}EOL}EOL"
+   },
+
+   {
+   "標題":"Excel VBA 不同檔案資料更新",
+   "標籤":["巨集","excel","vba","excel vba"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"211",
+   "內文":"EOL請問各位高手，Excel VBA有什麼方式可以將A檔案內容修改後，更新到B檔案，而且不會重複新增。EOL如下圖，型號與序號在下方表格中修改後，按下更新可以將DB這檔案的內容更新，而不是另外新增一筆，工單號碼是唯一識別號碼。 請指教謝謝。EOLEOL"
+   },
+
+   {
+   "標題":"DNS NSlookup 10.0.0.1",
+   "標籤":["nslookup","dns server","防火牆","路由"],
+   "詢問時間":"2022-10-31",
+   "瀏覽次數":"310",
+   "內文":"EOL如附圖：EOLEOL2個問題希望有神大可以解決我的疑惑：EOLEOL我們在防火牆有設定策略路由，當WAN1 ping 8.8.8.8失敗for3秒時，會轉由WAN2 來上網。可是當WAN1斷線後，公司電腦無法經由WAN2上網，但如果從防火牆本身經由WAN2介面來ping8.8.8.8時，結果是有通的。找過防火牆的技術客服，最後將防火牆還原到出廠設定，之後只是設定了LAN的IP以及WAN2，可是還是無法上網。不知道有什麼地方可以解決？EOL當問題1發生後，從伺服器執行nslookup，發現回來的IP都是10.0.0.1。這又是哪裡的設定有問題？EOLEOL問題1和2好像是有關聯性的，因為當WAN1 恢復正常後，網路的traffic都是從WAN1出去，而且從伺服器上執行nslookup時，回來的IP也都正常。EOL希望有哪位大神可以幫我解惑。EOL"
+   }]
+}
