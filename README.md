@@ -57,6 +57,11 @@
 + 教學影片 : [Crawler](https://youtu.be/9Z9xKWfNo7k)
 
 
+### Week8
+*資料彙整與視覺化
++ 參考資料 : [彙整&視覺化](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)、[視覺化](https://plotly.com/python/)
+
+
 ## 作業連結區
 + [HW1](https://github.com/minhao920201/PL/blob/main/HW1/homework1.ipynb)
 + [HW2](https://github.com/minhao920201/PL/blob/main/HW2/homework2.ipynb)
