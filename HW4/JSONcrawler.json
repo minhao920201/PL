@@ -1,0 +1,242 @@
+{
+   "Article":[
+   {
+   "標題":"請問java如何獲取字串裡的數字?",
+   "標籤":["android","java"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"26",
+   "內文":"EOL請問java如何獲取字串裡的數字?EOL字串中有英文和數字和＜＞＝符號夾雜，我只要將數字取出放到ｉｎｔ變數裡面請問要如何做？EOL拜託各位了　我上網找只找到一堆不能用的方法　＝　＝　EOL（另外是android studio的ｊａｖａ喔）EOL"
+   },
+
+   {
+   "標題":" ubuntu的掛載問題",
+   "標籤":["ubuntu 22.04","ubuntu","linux","boot"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"63",
+   "內文":"EOL根這個狀況蠻類似的EOLhttps://stackoverflow.com/questions/68124511/booting-error-dev-sda2-clean-files-blocksEOL但是我的是 /dev/sdb2EOL雖然這樣開的了機，但是，銀幕亮度卻沒辦法條。EOL請問有什麼辦法可以解決，還有請教一下原因，謝謝。（上面的方法已經試過了）EOL"
+   },
+
+   {
+   "標題":"Postman Mock Server 可否帶入 Body 參數",
+   "標籤":["#postman","body","mockserver"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"69",
+   "內文":"EOL自己實作與查看網路上的文章後，EOL發現 Postman 的 MockServer 好像只能判斷 QueryString 參數，EOL而從 Header、Body 內帶入的參數就完全沒判斷，EOL若有後者的需求，是否就只能自己建立 MockServer 了呢？EOL"
+   },
+
+   {
+   "標題":"試用Apache Jmeter 5.5時，Java不認識https？",
+   "標籤":["apache jmeter"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"85",
+   "內文":"EOLjava.net.MalformedURLException: unknown protocol: httpsEOLat java.net.URL.(Unknown Source)EOLat java.net.URL.(Unknown Source)EOLat java.net.URL.(Unknown Source)EOLat org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.getUrl(HTTPSamplerBase.java:1123)EOLat org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1301)EOLat org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1290)EOLat org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651)EOLat org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570)EOLat org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501)EOLat org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268)EOLat java.lang.Thread.run(Unknown Source)EOL有人遇過這個問題嗎？EOL要改那個部分，才能讓Apache JMeter能用https？EOL參考資料是這個EOLhttps://dotblogs.com.tw/yc421206/2022/10/15/load_stress_test_tool_for_jmeterEOL不過我是直接從官網下載 Apache JMeterEOLhttps://jmeter.apache.org/download_jmeter.cgiEOL解壓縮後EOL直接執行  BACKSLASH bin BACKSLASH jmeter.batEOL"
+   },
+
+   {
+   "標題":"CSS中的導覽列Nav如何讓內容往兩邊靠",
+   "標籤":["切版","css"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"90",
+   "內文":"EOLEOLCSS新手指教EOL我在nav這邊使用EOLnav{EOL    justify-content: space-between;EOL}EOLEOL使兩邊對齊分散EOL但我發現兩邊淺藍色的部分太多，想要h1和ul li往兩邊移動EOL或是只要ul li往右邊移動就好EOL請問這邊該怎麼調整?EOL我想到的是直接調整 margin-right和margin-leftEOL不曉得有沒有其他更好的方法，謝謝!!EOL"
+   },
+
+   {
+   "標題":"dynamic ip  如何設定DNS a record",
+   "標籤":["linux","dns","bind"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"93",
+   "內文":"EOL我是在linux上自建bindEOL目前需要將主網域 設定 a recordEOL現在設法是EOL@  IN A 10.10.10.10EOL但ip不只一組 要如何針對dynamic ip設定EOL"
+   },
+
+   {
+   "標題":"selenium爬取下拉式選單報錯",
+   "標籤":["@爬蟲","@selenum"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"116",
+   "內文":"EOL大家好，我是Python新手，想請問一下使用selenium爬取https://irs.thsrc.com.tw/IMINT/EOL的日期跟時間一直報錯EOLselenium.common.exceptions.NoSuchElementException: Message: Could not locate element with visible text: 1400EOL想問一下可以從哪方面下手，GOOGLE好久試過好多寫法都抓不到EOLPS.我爬取https://www.thsrc.com.tw/EOL上面的時刻表與票價是成功的，用相同方式去抓取訂票的元素就失敗QQEOL程式碼如下:EOLdef order_high_speed_rail(start_use,arrival_use,data_use,time_use):EOL    PATH='D:/PYTHONE/new/chromedriver_win32/chromedriver.exe' EOL    #chromedriver檔案存放位置EOL    EOL    options = webdriver.ChromeOptions() EOL    options.add_experimental_option('excludeSwitches', ['enable-logging'])EOL    driver = webdriver.Chrome(options=options, executable_path=PATH)EOLEOL    url = 'https://irs.thsrc.com.tw/IMINT/'EOL    driver.get(url)EOL    driver.find_element(by=By.CLASS_NAME,value='policy-btn-accept').click()EOL    EOLEOL    #買票邏輯只能單程只能買標準車廂只能買全票EOL    ticket_use = '單程'EOL    typesofCar_use = '標準車廂'EOL    time.sleep(2)EOL    #上車EOL    driver.find_element(by=By.XPATH,value='//*[@id='BookingS1Form']/div[3]/div[1]/div/div[1]/div/select').click()  EOL    start_use_from = Select(driver.find_element(by=By.NAME,value='selectStartStation'))    EOL    start_use_from.select_by_visible_text(start_use)EOL    EOL    #下車EOL    driver.find_element(by=By.XPATH,value='//*[@id='BookingS1Form']/div[3]/div[1]/div/div[2]/div/select').click()  EOL    arrival_use_from = Select(driver.find_element(by=By.NAME,value='selectDestinationStation'))    EOL    arrival_use_from.select_by_visible_text(arrival_use)EOL    EOL    #日期EOL    data_find = driver.execute_script(f'document.getElementById('toTimeInputField').value='{data_use}'') EOL    time.sleep(2)EOL    EOL    #時間EOL    driver.find_element(by=By.XPATH,value='//*[@id='BookingS1Form']/div[3]/div[2]/div/div[2]/div[1]/select')EOL    time_use_from = Select(driver.find_element(by=By.NAME,value='toTimeTable'))EOL    start_use_from.select_by_visible_text(time_use)EOL    time.sleep(5)EOLEOLorder_high_speed_rail('台中','彰化','2022.11.16','14:00')EOLEOL"
+   },
+
+   {
+   "標題":"Angular webpack打包問題",
+   "標籤":["#angular","#frontend"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"82",
+   "內文":"EOL各位大神好，在下前端菜雞EOL最近遇到了前端打包上的問題EOL目前的情況是這樣的EOL由於webpack打包的機制，會將更改過的檔案更改hash重新命名EOL所以CDN上就會抓到有這筆新的檔案，就會加到CDN cache中，到這裡都運行正常EOL但是，假設今天有個檔案叫做main.jsEOL他被改了三次，就會產生EOLmain.hashaaa.jsEOLmain.hashbbb.jsEOLmain.hashccc.jsEOL結果這三個檔案都是相同的，但是版本不同EOL可能會產生相依性的問題EOL以前的做法會是上版之前，會手動把當前版本的build resource包起來變成一個資料夾，變成舊版本儲存EOL然後在編譯新版本出來，接著把這些資源發布EOL如果有問題，就把舊版本的資源拿出來做revoceryEOL不知道有沒有什麼好的方法可以處理將同個版本的build resource歸類的問題EOL同時又能讓CDN知道我們變更了檔案要進行正確的緩存處理EOL"
+   },
+
+   {
+   "標題":"Robot framework 在headless chrome下無法使用 Get Value/Get Text (Library: Selenium2Library)",
+   "標籤":["robot framework","selenium2library"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"96",
+   "內文":"EOL當我使用headless chrome的時候, 會無法使用Get valueEOL有嘗試使用Click Element去點網頁的其他位子, 看起來也不會正常運作EOL想請問是否有其他解決辦法?EOL目前已嘗試過設定window size為最大, 但仍無法解除EOL"
+   },
+
+   {
+   "標題":"關於Fortigate 81F效能？",
+   "標籤":["fortigate"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"204",
+   "內文":"EOL請問Fortigate 81F是適用於多少人的網路環境下使用？外點也有大約15個點的VPN site to site 連線。EOL不知是否有所有Fortigate系列有列出適用於多少人的規格表。EOL謝謝！EOL"
+   },
+
+   {
+   "標題":"能順利編輯'超大量'程式內容的純文字編輯器？",
+   "標籤":["文字編輯器","文字編輯軟體","編輯器","編輯軟體"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"324",
+   "內文":"EOL在PHP程式中使用了一段其他機構提供的邏輯判斷EOL但是光一段邏輯判斷就有37萬個字元(後續還有好幾段要引入)EOL我的作業系統是WindowsEOL平常在用的編輯軟體是MadEditEOL但是使用MadEdit編輯這個大量內容的程式時會有很明顯的延遲感EOL在編輯時也相當不順暢EOL後來改用Windows內建的記事本編輯時就不會有延遲的問題EOL但是就缺乏MadEdit的顏色標記等功能EOL請問有沒有其他推薦的純文字編輯軟體EOL能夠提供程式標記等相關功能EOL又不會因為程式內容過多而有所延遲EOL註：有想過將邏輯判斷以include的方式獨立到其他支程式，但是這些邏輯判斷有時也需要進行編輯。所以就只是將明顯的編輯延遲問題減緩一點點而已。EOL看錯位數了，修正一下：一段邏輯判斷就有3.7萬個字元EOL"
+   },
+
+   {
+   "標題":"JQUERY DropDownList 請教",
+   "標籤":["jquery"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"183",
+   "內文":"EOL我想請問一下如果今天我有個下拉選單EOLhttp://jsfiddle.net/jsmnwuoh/1/EOL如果說我有點下拉選單然後點個重置的按鈕的話EOL下拉選單就會變回請選擇這個選項EOL請問該如何實現呢?EOL我目前只有做到取到他的字但沒辦法畫面整個修改EOL"
+   },
+
+   {
+   "標題":"關於POE供電接非POE設備",
+   "標籤":["轉接","poe"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"235",
+   "內文":"EOL因目前有位置要新增電腦，但是當初並沒有拉線至現場，只有當時廠商安裝監視器的POE HUB，EOL我看了一下該設備是沒有掛廠牌的，所以我挺擔心他的品質，不敢直接接主機，上網查了一下好像大多都是利用4578走供電(模式B)，EOL那我是否可以透過不使用4578來避免POE HUB可能沒有802.3AT/AF或未來故障的時候，不會沖壞我的設備，EOL或著前端加一台HUB防衝，更甚至去買一個網路與電源分接的小東西來做處理?EOL正常廠商要壓POE成本的模式下，應該會是走模式B比較節省成本?EOL那假如今天運氣很差真的是走模式A的話，又是持續供電無規範的，就只能買個分接小東西了?EOL"
+   },
+
+   {
+   "標題":"#Python 設計預測秒數的遊戲",
+   "標籤":["#python求救","#python"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"220",
+   "內文":"EOL小的不才，請各位大神幫幫忙!EOL請設計一個預測秒數的遊戲EOLEOL亂數產生一個介於3至10的整數(秒數)EOL使用者按下enter 開始計時EOL使用者按下enter程式結束並顯示秒數EOL如果誤差在0.5秒之間，顯示'成功'，否則顯示'失敗'EOLEOLEOL這是我目前寫的，能夠產生亂數，但我不知道要怎麼算誤差EOL"
+   },
+
+   {
+   "標題":"Grafana監控nas的作法",
+   "標籤":["telegraf","influxdb","grafana","synology nas","監控"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"235",
+   "內文":"EOL你好 請問有Grafana高手可以指導小弟如何監控公司裡的Synology 的NAS資源嗎?EOL目前有找到的Grafana模板EOLhttps://grafana.com/grafana/dashboards/1727-synology-dashboard/EOL但這模板需要使用到influxdb來先做抓取NAS的資料再進到Grafana，EOL目前卡在不知道如何使用influx telegraf來抓取NAS的資料EOLhttps://github.com/jperillo/Synology_dashboard_grafanaEOL不知道是否有用過的先進可以指點一下 謝謝EOL"
+   },
+
+   {
+   "標題":"詢問有人有使用過iphone or ipad連接電腦後用＊.ipa 安裝App過的嗎?",
+   "標籤":["line notify","app","line"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"149",
+   "內文":"EOL詢問有人有使用過連接電腦後用＊.ipa 安裝App過的嗎?EOL請教這樣更新line之後 裡面原本line的連絡人及對話是否會消失EOL"
+   },
+
+   {
+   "標題":"Excel VBA 產出圖表問題",
+   "標籤":["excel vba","excel圖表問題","圖表","excel"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"135",
+   "內文":"EOL請問各位專家，我要產出ABCD各自的圖表，目前寫出來的語法只能匯出A的資料,EOLBCD要如何同時匯出?   請指教 謝謝。EOLEOLSub Output()EOL    Dim xChart As ChartObjectEOL    Selection.AutoFilterEOL    ActiveSheet.Range('DB!$A:$D').AutoFilter Field:=1, Criteria1:='A'EOL    ActiveSheet.Shapes.AddChart2(227, xlLine).Select        '折線圖EOL    EOL    Set xChart = ActiveSheet.ChartObjects(1)EOL    With xChartEOL    .Top = 40EOL    .Left = 460EOL    '.Width = 200EOL    '.Height = 200EOL    EOL    ActiveChart.SetSourceData Source:=Range('DB!$A:$D')     '資料範圍EOL    ActiveChart.FullSeriesCollection(1).XValues = '=DB!$D:$D' 'Y軸EOL    ActiveChart.ChartTitle.SelectEOL  EOL    ActiveChart.Axes(xlValue).MaximumScale = 60     '最大值EOL    ActiveChart.Axes(xlValue).MajorUnit = 5         '間距EOL    Application.CutCopyMode = FalseEOLEnd WithEOLEnd SubEOLEOL"
+   },
+
+   {
+   "標題":"關於Powershell 監測「Win10 PID」",
+   "標籤":["powershell","windows 10","pid"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"175",
+   "內文":"EOL很感謝，[#johncoc]，協助我解決EOL關於Powershell 取得「Win10 應用程序 PID」 (感謝 johncoc 協助解決) 的問題EOL原先我想取得PID的目的是EOL判斷使用者開啟某些網頁，這邊先以Google為例EOL當使用者開啟Google後，開啟指定應用程式，取得PID，然後利用Win10排程，定時去偵測這個PID是否存活。EOL當使用者關閉Google網頁後，判定PID已經消失，則把指定應用程式關閉EOL↑ 這是可行的。EOL但昨天我就在想，想了一天，有沒有什麼方法，可以把監測這功能也寫在PowerShell裡面，就像Ping一樣EOL已經嘗試過的方式有EOLEOL無限迴圈EOLEOL$PIDNu = Get-Process msedge| Where-Object { $_.MainWindowTitle -like '*Google*' } | Select IdEOLEOLFor (;;) {EOL  If ($PIDNu.Id -lt 0) {EOL    Stop-Process -Name chtnode -ForceEOL    BreakEOL  }EOLEOLEOL這沒辦法判斷成功EOLEOL使用 netstat -anoEOLEOLEOL但似乎沒有可以一直監測的效果EOL"
+   },
+
+   {
+   "標題":"各位大大好，請教一下用Django & ngrok架站後用liff 網址帶參數卻出現錯誤的問題，謝謝",
+   "標籤":["liff.state","liff","django"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"126",
+   "內文":"EOL各位大大好，我用Django設定網頁，用ngrok架站測試帶入參數EOLviews.py檔設定為EOLdef index(request,word1,word2):EOLpost_title = ''EOLreturn render(request,'IT_help/index.html',locals())EOLurls.py檔的urlpatterns 設定為EOLpath('str:word1&str:word2',views.index),EOL呈現網頁的html為EOL參數一為：{{word1}}EOL參數二為：{{word2}}EOL輸入網址 127.0.0.1:8000/word1&word2 可以正常呈現如下圖EOLEOL但是後來用liff 轉址也可以帶入我的頁面，可是如果liff網址帶參數後，就無法正常呈現EOL帶入網址如下liff.line.me/ liffid /word1&word2 卻會出現錯誤EOL後來發現網址多出來一個liff.state的名稱EOL我上網查詢後有看到需要更新到最新的liff sdk，但是我本身沒有用任何的sdk程式，只是單純的帶參數進來，為何會有這樣的問題? 再請各位大大協助，謝謝EOL"
+   },
+
+   {
+   "標題":"銀行業的資安規範",
+   "標籤":["資安規範"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"384",
+   "內文":"EOL不好意思，請問各位前輩一個問題EOL銀行業要遵循的資安規範EOL請問要去哪裡查法規呢?EOL"
+   },
+
+   {
+   "標題":"用anaconda無法使用pytorch不知如何解決",
+   "標籤":["#anaconda","#jupyter notebook","#python","#新手求指導","#python求救"],
+   "詢問時間":"2022-11-15",
+   "瀏覽次數":"163",
+   "內文":"EOLEOL如圖，是用anaconda prompt輸入指令安裝套件，雖然順利安裝下來但import時卻報錯了，而且我順著路徑去找明明就有找到caffe2_nvrtc.dll在那個位置。EOL由於我是裝在虛擬環境，目前已經試過輸入指令把整個虛擬環境uninstall再重裝一次但還是沒辦法，希望有大神能救救我...EOL因為是程式新手也是第一次發文，如果犯了甚麼很蠢的錯誤還請多多包涵指教EOL"
+   },
+
+   {
+   "標題":"如何由react-app-rewired 設定config-overrides.js來產生bundle.js?",
+   "標籤":["react-app-rewired","react","config-overrides.js","bundle.js"],
+   "詢問時間":"2022-11-14",
+   "瀏覽次數":"146",
+   "內文":"EOL已經在package.json中設定react-app-rewired取代react-scripts:EOL'scripts': {EOL    'start': 'react-app-rewired start',EOL    'build': 'react-app-rewired build',EOL    'test': 'react-app-rewired test',EOL    'eject': 'react-app-rewired eject'EOL  },EOLEOL用npm run build建立了包含build/static/{css,js,media}的production環境.EOL但沒有產生development mode下的build/static/js/bundle.js. 請問要怎麼設定config-overrides.js來產生永久的bundle.js(或自設定的檔名)?EOL20221114T2309EOL我剛使用的這個設定,EOLmodule.exports = function override(config, env) {EOL    config.output.filename = 'bundle.js';    EOL    return config;EOL};EOLEOL就可以替換webpack.config.js預設的filename設定:EOLoutput: {EOL      ...EOL      filename: isEnvProductionEOL        ? 'static/js/[name].[contenthash:8].js'EOL        : isEnvDevelopment && 'static/js/bundle.js',EOL      ...EOL}      EOLEOL並產生了bundle.js, 用serve -s build測試可正常開啟網頁, 就這樣嗎?EOL"
+   },
+
+   {
+   "標題":"在 docker 中用  nginx 來 udp 負載平衡配置失敗  (已解決)",
+   "標籤":["nginx","node.js","udp","load balancing","docker"],
+   "詢問時間":"2022-11-14",
+   "瀏覽次數":"233",
+   "內文":"EOL我想創建一個 nginx docker container 來作為 udp 負載平衡，轉發到另一個 有 udp server 的 ndoe docker container。EOL之後用 udp client 向 nginx container 發信息，但 udp server 一直没有收到信息，nginx、ndoe container 也没有錯誤信息。EOL不知道哪裡出了問題，想請大家幫忙看一下配置和步驟。EOL配置和步驟。EOLEOL創建一個 docker networkEOLEOLdocker network create udp_proxyEOLEOL2.創建 udp 負載平衡 imageEOLdocker build -t mailbox_proxy .EOLEOL# nginx DockerfileEOLFROM nginx:stable-alpineEOLCOPY udp-load‑balanced.conf /etc/nginx/conf.d/EOLCOPY nginx.conf /etc/nginx/EOLEOL# udp-load‑balanced.confEOLupstream dns_upstream  {EOL  server mailbox_1:80 fail_timeout=60s;EOL}EOLEOLserver {EOL  listen 53 udp;EOL  proxy_pass dns_upstream;EOL  proxy_timeout 1s;EOL  proxy_responses 1;EOL  error_log /var/log/nginx/udp-dns-error.log notice;EOL}EOLEOLEOL# nginx.confEOLuser  nginx;EOLworker_processes  auto;EOLEOLerror_log  /var/log/nginx/error.log notice;EOLpid        /var/run/nginx.pid;EOLEOLEOLevents {EOL    worker_connections  1024;EOL}EOLEOLhttp {EOL  include       mime.types;EOL  default_type  application/octet-stream;EOL  sendfile        on;EOL  server {EOL    listen 80;EOL    server_name  localhost;EOLEOL    location / {EOL      root   html;EOL      index  index.html index.htm;EOL    }EOL  }EOL}EOLEOLstream {EOL  include /etc/nginx/conf.d/udp-load‑balanced.conf;EOL}EOLEOLEOL2.創建 udp server imageEOLdocker build -t mailbox .EOLEOL# udp server DockerfileEOLFROM node:lts-alpine3.16EOLRUN mkdir /mailboxEOLWORKDIR /mailboxEOLCOPY index.js /mailboxEOLCOPY package.json /mailboxEOLCMD ['npm', 'run', 'start']EOLEOL// index.jsEOL// udp serverEOLconst dgram = require('dgram');EOLEOLfunction main() {EOL  const server = dgram.createSocket('udp4');EOL  const prot = '80';EOLEOL  server.on('error', (err) => {EOL    console.log(`server error: BACKSLASH n${err.stack}`);EOL    server.close();EOL  });EOLEOL  server.on('message', (msg, rinfo) => {EOL    console.log(`server got: ${msg} from ${rinfo.address}:${rinfo.port}`);EOL  });EOLEOL  server.on('listening', () => {EOL    const address = server.address();EOL    console.log(`server listening ${address.address}:${address.port}`);EOL  });EOLEOL  server.bind(prot);EOL}EOLEOLmain();EOLEOLEOL// package.jsonEOL{EOL  'name': 'mailbox',EOL  'version': '1.0.0',EOL  'description': '',EOL  'main': 'index.js',EOL  'scripts': {EOL    'start': 'node index.js',EOL    'test': 'echo  BACKSLASH 'Error: no test specified BACKSLASH ' && exit 1'EOL  },EOL  'keywords': [],EOL  'author': '',EOL  'license': 'ISC'EOL}EOLEOL4.創建 udp 負載平衡 containerEOLdocker run -d -p 8080:80 -p 53:53 --name mailbox_proxy --network udp_proxy mailbox_proxyEOLEOLEOL創建 udp server containerEOLEOLdocker run -d --name mailbox_1 --network udp_proxy mailboxEOLEOL6.udp client 向 nginx container 發信息EOL// udp clientEOLconst dgram = require('node:dgram');EOLconst { Buffer } = require('node:buffer');EOLEOLconst message = Buffer.from('Some bytes');EOLconst client = dgram.createSocket('udp4');EOLclient.send(message, 53, calhost', (err) => {EOL  client.close();EOL});EOLEOL解決方法EOL問題出在步驟 4 我開的 prot 是 tcp，因此udp 負載平衡一直没有收到 udp 信息，EOL把步驟 4 的指令改為下面就可以了。EOLdocker run -d -p 8080:80 -p 53:53/udp --name mailbox_proxy --network udp_proxy mailbox_proxyEOLEOL"
+   },
+
+   {
+   "標題":"無法讀取隨身碟",
+   "標籤":["隨身碟"],
+   "詢問時間":"2022-11-14",
+   "瀏覽次數":"285",
+   "內文":"EOL請教大家EOL在win10作業系統中, 插入隨身碟後, 無法讀取隨身碟的內容, 有作下列的測試EOL1.同一台電腦使用別的作業系統可以讀取到隨身碟 --> 所以代表usb及線都正常EOL2.有發現隨身碟的屬性被改成 readonly, 透過指令方式將其修正 (attributes disk clear readonly)EOL但在原來的作業系統上, 還是顯示: 存取被拒, 但我又沒辦法直接在安全性來套用權限設定, 在套用設定的過程,無法完成套用, 有指令可以套用權限嗎?EOL註: 非常有可能在作業系統中有安裝或者植入usb保護工具, 但要如何找到該常駐軟體呢EOLEOL無法改權限EOLEOL謝謝EOL"
+   },
+
+   {
+   "標題":"不同字數部落格文章的Hashtag標籤上限最好幾個?",
+   "標籤":["hashtag","部落格","tag","blog","標籤"],
+   "詢問時間":"2022-11-14",
+   "瀏覽次數":"181",
+   "內文":"EOL如標題，請問有人知道,部落格文章大概有多少字就設定一個Hashtag標籤(舉例：#SEO)會比較好?EOL補充：Hashtag標籤跟超連結不一樣噢EOL"
+   },
+
+   {
+   "標題":"windows server 2016 使用造字程式 點文字服務連結 會顯示造字程式已經停止運作 使用微軟注音",
+   "標籤":["軟體","windows server"],
+   "詢問時間":"2022-11-14",
+   "瀏覽次數":"160",
+   "內文":"EOLwindows server 2016 使用造字程式 點文字服務連結 會顯示造字程式已經停止運作 使用微軟注音EOLEOLEOL"
+   },
+
+   {
+   "標題":"關於 MySQL 資料庫 執行 revoke 撤銷權限問題",
+   "標籤":["revoke","mysql","資料庫","sql"],
+   "詢問時間":"2022-11-14",
+   "瀏覽次數":"198",
+   "內文":"EOL您好， MySQL 資料庫版本是 8.0.23 版。EOL遇到的問題是，當我對某一個使用者在資料庫中的特定資料表執行 revoke 指令回收權限的時候，會發生如下圖般的錯誤訊息。EOLEOL但是如果我不指定 資料庫，執行 Revoke 回收 Update 權限，卻又可以正常執行。EOLEOL如果我對某一個資料庫，但是不指定資料表，執行 Revoke 回收 Update 權限，也可以正常執行。EOLEOL結論就是，如果我必須對特定資料庫中的指定資料表做 revoke 就會出現 :EOLThere is no such grant defined for user 'Chin' on host '%' on table 'plant'EOL有人解決過這樣的問題嗎?EOL感謝回覆，謝謝。EOL"
+   },
+
+   {
+   "標題":"Android Studio安裝問題",
+   "標籤":["#android studio","java"],
+   "詢問時間":"2022-11-14",
+   "瀏覽次數":"274",
+   "內文":"EOL想請問 AndroidStudio安裝時 finish鍵無法按，也已經重載好幾次了。若如果按NExT 進入下一關時就會出現以下畫面。java已都安裝，想請教各位如何解決~EOLEOLEOL"
+   },
+
+   {
+   "標題":"百度爬蟲",
+   "標籤":["python","selenium","網路爬蟲","百度"],
+   "詢問時間":"2022-11-14",
+   "瀏覽次數":"344",
+   "內文":"EOL各位大大好，小弟最近在開發百度搜尋引擎的爬蟲，過程中使用 python + selenium 並且 proxy、useragent 之類的都有換，但每每到了按下第二頁後，就會被偵測為是機器人，開始出現一些重複的資料，或是後面幾頁直接不見等等，想問一下有沒有甚麼方向可以思考之類的EOL"
+   },
+
+   {
+   "標題":"[已妥協解決]請問使用google script抓google form表單reply的最新資料顯示不出來的問題",
+   "標籤":["google sheet","#google app script","gas","google calendar","google form"],
+   "詢問時間":"2022-11-14",
+   "瀏覽次數":"194",
+   "內文":"EOL如問題主旨EOL我使用表單回復時會出發trigger的方式EOL但當我讀取表單的getLastRow()EOL會顯示[, , , ]EOL但讀取getLastRow()-1就能讀取到前一次輸入的資料EOLEOL解決方法:寫入睡眠function 在觸發條件的function底下EOLfunction autoUpdate(e) {EOL// Set a comment on the edited cell to indicate when it was changed.EOLvar range = e.range;EOLUtilities.sleep(120000);EOLsetUpCalendar()EOL}EOLEOL已確保表單的更新一定能完成EOLEOL待解決:EOLEOL同時有兩個人同時回應表單的壓力測試EOL"
+   }]
+}
