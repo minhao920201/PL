@@ -68,5 +68,6 @@
 + [HW3-CSV](https://github.com/minhao920201/PL/blob/main/HW3/CSVcrawler.ipynb)
 + [HW3-JSON](https://github.com/minhao920201/PL/blob/main/HW3/JSONcrawler.ipynb)
 + [HW4-crawler](https://github.com/minhao920201/PL/blob/main/HW4/crawler.ipynb)
++ [HW4-analysis](https://github.com/minhao920201/PL/blob/main/HW4/analysis.ipynb)
 
 ## 專題連結區
