@@ -76,3 +76,4 @@
 + [爬蟲](https://github.com/minhao920201/PL/blob/main/Project/Crawler.ipynb)
 + [標籤分析](https://github.com/minhao920201/PL/blob/main/Project/Analyze_Popular_Tags.ipynb)
 + [文章與標籤關聯分析](https://github.com/minhao920201/PL/blob/main/Project/Analyze_Popular_Article.ipynb)
++ [Medium](https://medium.com/@tony920201/it%E9%82%A6%E5%B9%AB%E5%BF%99%E7%B6%9C%E5%90%88%E5%88%86%E6%9E%90-10b788e9216a)
