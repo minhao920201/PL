@@ -11,6 +11,7 @@
 ### Week2
 + [week2投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=496947)
 + [week2課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=502948)
+
 *資料型態* :
 
     (1) int : 整數
@@ -29,6 +30,7 @@
 ### Week3
 + [week3投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=504023)
 + [week3課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=508174)
+
 *list[ ]* : 可有次序的放入不同類型的資料
 
     增加 : .append() / .insert() / .extend()
@@ -46,29 +48,53 @@
 
 
 ### Week4
++ [week4投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=508762)
++ [week4課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=512297)
+
 *dict{ key:value }* : 無序、無索引、以key和value方式儲存，其中key不可重複
 + [dict practice](https://github.com/minhao920201/PL/blob/main/Week4_Practice/dict%20practice.ipynb)
 + [dict application](https://github.com/minhao920201/PL/blob/main/Week4_Practice/dict%20application.ipynb)
 
 
 ### Week5
++ [week5投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=513337)
++ [week5課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=516152)
+
 *json* : 以 dict 的型態為架構，主要用來傳輸由屬性值或者序列性的值組成的資料物件
 + [json introduction](https://ithelp.ithome.com.tw/articles/10220160)
 
 
 ### Week6
++ [week6投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=516444)
++ [week6課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=518934)
+
 *Regular Expression (正規表示式)* : 通常被用來檢索、替換那些符合某個模式的文字
 + 網站 : [RegExr](https://regexr.com/)
 
 
 ### Week7
++ [week7投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=520783)
++ [week7課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=522340)
+
 *Web crawler ( 網路爬蟲 ) : 是一種用來自動瀏覽全球資訊網的網路機器人。其目的一般為編纂網路索引
 + 教學影片 : [Crawler](https://youtu.be/9Z9xKWfNo7k)
 
 
 ### Week8
++ [week8投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=523296)
++ [week8課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=525096)
 *資料彙整與視覺化
 + 參考資料 : [彙整&視覺化](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)、[視覺化](https://plotly.com/python/)
+
+
+### Week9
++ [week9投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=525490)
++ [week9課程直播錄影](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=527989)
+
+
+### Week11
++ [week11投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=531385)
++ [week11課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=532851)
 
 
 ## 作業連結區
