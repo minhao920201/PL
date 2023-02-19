@@ -9,6 +9,8 @@
 
 
 ### Week2
++ [week2投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=496947)
++ [week2課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=502948)
 *資料型態* :
 
     (1) int : 整數
@@ -25,6 +27,8 @@
 
 
 ### Week3
++ [week3投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=504023)
++ [week3課程直播錄影](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=508174)
 *list[ ]* : 可有次序的放入不同類型的資料
 
     增加 : .append() / .insert() / .extend()
