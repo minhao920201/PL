@@ -3,6 +3,11 @@
 + 姓名 : 徐敏皓
 + 系級 : 科技系二年級
 ## 課程筆記區
+### Week1
++ [week1投影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=483956)
++ [week1課程直播錄影](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=495558)
+
+
 ### Week2
 *資料型態* :
 
